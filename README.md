@@ -1,6 +1,6 @@
 # Aether-Assistant
 
-Este repositório é o núcleo de desenvolvimento de um **Assistente de IA Modular** focado em automação de tarefas e análise de dados com Python. 
+Este repositório é o núcleo de desenvolvimento de um **Assistente de IA Modular** focado em automação de tarefas e análise de dados com Python.
 
 O objetivo principal é unir o poder de processamento do **Pandas** com a inteligência de LLMs (Large Language Models) para criar um agente capaz de automatizar fluxos de trabalho manuais.
 
